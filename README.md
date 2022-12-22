@@ -6,4 +6,4 @@
 
 <hr>
 
-<p>Acesso ao projeto: https://pagina-contatos.netlify.app</p
+<p>Acesso ao projeto: https://pagina-contatos.netlify.app</p>
